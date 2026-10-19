@@ -6,4 +6,8 @@
   <Project Path="05 Åtkomstnivån internal/05 Åtkomstnivån internal.csproj" />
   <Project Path="05b Åtkomst internal/05b Åtkomst internal.csproj" />
   <Project Path="06 Inkapsling med validering (AnvändarProfil)/06 Inkapsling med validering (AnvändarProfil).csproj" />
+  <Project Path="07 Skrivskyddad inkapsling (SpelKaraktär)/07 Skrivskyddad inkapsling (SpelKaraktär).csproj" />
+  <Project Path="08 Enkel abstrakt klass (GeometriskForm)/08 Enkel abstrakt klass (GeometriskForm).csproj" />
+  <Project Path="09 Implementera en abstrakt klass (Cirkel)/09 Implementera en abstrakt klass (Cirkel).csproj" />
+  <Project Path="10 Flera abstrakta underklasser (Kvadrat)/10 Flera abstrakta underklasser (Kvadrat).csproj" />
 </Solution>
