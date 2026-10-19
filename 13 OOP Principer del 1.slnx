@@ -5,4 +5,5 @@
   <Project Path="04 Arv och åtkomstnivån protected/04 Arv och åtkomstnivån protected.csproj" />
   <Project Path="05 Åtkomstnivån internal/05 Åtkomstnivån internal.csproj" />
   <Project Path="05b Åtkomst internal/05b Åtkomst internal.csproj" />
+  <Project Path="06 Inkapsling med validering (AnvändarProfil)/06 Inkapsling med validering (AnvändarProfil).csproj" />
 </Solution>
