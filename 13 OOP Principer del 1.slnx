@@ -13,4 +13,6 @@
   <Project Path="11 Skapa ett enkelt gränssnitt (ILaddbar)/11 Skapa ett enkelt gränssnitt (ILaddbar).csproj" />
   <Project Path="12 Implementera ett gränssnitt (Mobiltelefon)/12 Implementera ett gränssnitt (Mobiltelefon).csproj" />
   <Project Path="13 Flera klasser, samma gränssnitt (Elbil)/13 Flera klasser, samma gränssnitt (Elbil).csproj" />
+  <Project Path="14 Smartklocka (Kombinera flera gränssnitt)/14 Smartklocka (Kombinera flera gränssnitt).csproj" />
+  <Project Path="15 Robotapplikation (Kombinera arv och gränssnitt)/15 Robotapplikation (Kombinera arv och gränssnitt).csproj" />
 </Solution>
