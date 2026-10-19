@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="01 Bas- och underklass/01 Bas- och underklass.csproj" />
   <Project Path="02 Konstruktorer vid arv (Djur och Katt)/02 Konstruktorer vid arv (Djur och Katt).csproj" />
+  <Project Path="03 Treledshierarki (Anställd - Manager - VD)/03 Treledshierarki (Anställd - Manager - VD).csproj" />
+  <Project Path="04 Arv och åtkomstnivån protected/04 Arv och åtkomstnivån protected.csproj" />
 </Solution>
