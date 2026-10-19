@@ -10,4 +10,7 @@
   <Project Path="08 Enkel abstrakt klass (GeometriskForm)/08 Enkel abstrakt klass (GeometriskForm).csproj" />
   <Project Path="09 Implementera en abstrakt klass (Cirkel)/09 Implementera en abstrakt klass (Cirkel).csproj" />
   <Project Path="10 Flera abstrakta underklasser (Kvadrat)/10 Flera abstrakta underklasser (Kvadrat).csproj" />
+  <Project Path="11 Skapa ett enkelt gränssnitt (ILaddbar)/11 Skapa ett enkelt gränssnitt (ILaddbar).csproj" />
+  <Project Path="12 Implementera ett gränssnitt (Mobiltelefon)/12 Implementera ett gränssnitt (Mobiltelefon).csproj" />
+  <Project Path="13 Flera klasser, samma gränssnitt (Elbil)/13 Flera klasser, samma gränssnitt (Elbil).csproj" />
 </Solution>
